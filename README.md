@@ -12,7 +12,7 @@ After that you need to load all modules,because Git rejects them.
 
 Use the command:
 
-npm install modules
+npm install
 
 
 After all modules are loaded in the project you can start it in the developer mode. Use the command 
