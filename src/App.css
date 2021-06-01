@@ -1,0 +1,36 @@
+#root {
+  background-color: #f7f7f7;
+  margin: 0px;
+  padding: 0px;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+
+input {
+  margin-right: 20px;
+  margin-top: 20px;
+  border-color: blue;
+  padding: 5px 10px;
+  border-radius: 5px;
+
+}
+
+label {
+  color: blue;
+  font-weight: bold;
+}
+
+#submit {
+  background-color: blue;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 5px;
+  border-color: blue;
+  margin-top: 20px;
+}
